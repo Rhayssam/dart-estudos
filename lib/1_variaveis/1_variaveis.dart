@@ -12,6 +12,9 @@ void main() {
   var texto = "Olá";
   var chove = true;
 
+  // Pode receber qualquer valor
+  Object objetoQualquer = 1.2;
+
   // Variáveis dinâmicas
   dynamic valorDinamico = 10;
   valorDinamico = "Dez";
